@@ -17,10 +17,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickciuffi&show_icons=true&theme=tokyonight)
 
-## These are my favourite projects:
+## These are my favorite projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickciuffi&repo=Space-Invaded)](https://github.com/nickciuffi/Space-Invaded)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickciuffi&repo=tech-quest)](https://github.com/nickciuffi/tech-quest)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickciuffi&repo=pac-man-game)](https://github.com/nickciuffi/pac-man-game)
+[![space-invaded](https://github-readme-stats.vercel.app/api/pin/?username=nickciuffi&repo=Space-Invaded)](https://github.com/nickciuffi/Space-Invaded)
+[![pac-man-game](https://github-readme-stats.vercel.app/api/pin/?username=nickciuffi&repo=pac-man-game)](https://github.com/nickciuffi/pac-man-game)
+[![flappy-bird-game](https://github-readme-stats.vercel.app/api/pin/?username=nickciuffi&repo=tech-quest-admin)](https://github.com/nickciuffi/flappy-bird-game)
+
+[![tech-quest](https://github-readme-stats.vercel.app/api/pin/?username=nickciuffi&repo=tech-quest)](https://github.com/nickciuffi/tech-quest)
 [![TCC](https://github-readme-stats.vercel.app/api/pin/?username=nickciuffi&repo=BibliotecaEtec)](https://github.com/nickciuffi/BibliotecaEtec)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickciuffi&repo=nick-chat)](https://github.com/nickciuffi/nick-chat)
+[![nick-chat](https://github-readme-stats.vercel.app/api/pin/?username=nickciuffi&repo=nick-chat)](https://github.com/nickciuffi/nick-chat)
+
