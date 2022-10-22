@@ -3,9 +3,11 @@
 - I`m a begginer developer focused in Js/Ts 🖥️🤓
 - I love music and technology 🎵🤖
 ##
-
-![nickciuffi stats](https://github-readme-stats.vercel.app/api?username=nickciuffi&show_icons=true&theme=tokyonight&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickciuffi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 ##
 
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/nickciuffi)
