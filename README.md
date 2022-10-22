@@ -25,8 +25,8 @@
 ##
 
 <div>
-  <a style="margin-right:10px" href="https://instagram.com/nick_ciuffi_official" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a style="margin-right:10px" href = "mailto:nicolasciuffi1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a style="margin-right:10px" href="https://www.linkedin.com/in/nicolas-ciuffi-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a style="margin-right:10px" href="https://contate.me/nickciuffi" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a style="margin-right:20px" href="https://instagram.com/nick_ciuffi_official" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a style="margin-right:20px" href = "mailto:nicolasciuffi1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a style="margin-right:20px" href="https://www.linkedin.com/in/nicolas-ciuffi-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a style="margin-right:20px" href="https://contate.me/nickciuffi" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
