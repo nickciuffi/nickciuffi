@@ -4,7 +4,7 @@
 - I love music and technology 🎵🤖
 ##
 
-## Stats
+## ✔️ Stats
 
 <div align="center">
   <a href="https://github.com/nickciuffi">
