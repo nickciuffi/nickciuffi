@@ -3,6 +3,9 @@
 - I`m a begginer developer focused in Js/Ts 🖥️🤓
 - I love music and technology 🎵🤖
 ##
+
+## Stats
+
 <div align="center">
   <a href="https://github.com/nickciuffi">
   <img style="margin-right:30px" height="180em" src="https://github-readme-stats.vercel.app/api?username=nickciuffi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
@@ -10,6 +13,8 @@
 </div>
 
 ##
+
+## Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="nickciuffi-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,6 +29,7 @@
 
 ##
 
+## Contact Info
 <div>
   <a style="margin-right:30px" href="https://instagram.com/nick_ciuffi_official" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a style="margin-right:30px" href = "mailto:nicolasciuffi1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
