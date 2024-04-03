@@ -1,6 +1,6 @@
 ## Hi there, my name is Nicolas Ciuffi de Moura 👋🚀
 
-- I`m a begginer developer focused in Js/Ts 🖥️🤓
+- I`m a tech enthusiast 🖥️🤓
 - I love music and technology 🎵🤖
 
 ##
