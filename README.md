@@ -1,5 +1,6 @@
 ## Hi there, my name is Nicolas Ciuffi de Moura 👋🚀
 
+- I am a backend developer in Caixa Econômica Federal 🏦🇧🇷
 - I`m a tech enthusiast 🖥️🤓
 - I love music and technology 🎵🤖
 
