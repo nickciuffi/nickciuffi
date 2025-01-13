@@ -24,7 +24,7 @@
 
 ## ☎️ Contact Info
 <div>
-  <a style="margin-right:30px" href="https://nickciuffi.xyz" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-4537b0?style=for-the-badge&logo=htmx&logoColor=white" target="_blank"></a>
+  <!--<a style="margin-right:30px" href="https://nickciuffi.xyz" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-4537b0?style=for-the-badge&logo=htmx&logoColor=white" target="_blank"></a>-->
   <a style="margin-right:30px" href = "mailto:nicolasciuffi1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a style="margin-right:30px" href="https://www.linkedin.com/in/nicolas-ciuffi-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
